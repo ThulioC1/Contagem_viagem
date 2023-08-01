@@ -1,6 +1,6 @@
 body{
     font:'sans-serif';
-    background-image: url(src/img/giphy.gif);
+    background-image: url(src/imagens/fundo-site.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
