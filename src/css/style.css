@@ -1,0 +1,47 @@
+body{
+    font:'sans-serif';
+    background-image: url(/Relogio_viagem/src/img/Relogio_fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center center;
+    margin: 0;
+}
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-top: 50px 0;
+}
+
+.cabecalho img{
+    height: 50px;
+    width: 50px;
+}
+
+.relogio {
+    display: flex;
+    font-size: large;
+    max-height: 100px;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.relogio h1{
+    font-size: 100px;    
+}
+
+.countdown{
+    display: flex;
+    align-items: center;
+    padding-top: 300px;
+
+}
+
+.time{
+    display: flex;
+    font-size: 150px;
+}
+

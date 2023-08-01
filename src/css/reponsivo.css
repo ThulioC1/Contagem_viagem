@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    
+    .relogio {
+        font-size: 20px;
+    }
+
+    .relogio h1 {
+        font-size: 40px;
+    }
+
+    .time {
+        font-size: 60px;
+    }
+    
+}
