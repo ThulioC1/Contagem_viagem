@@ -1,11 +1,9 @@
 body{
     font:'sans-serif';
-    background-image: url(src/img/Relogio_fundo.png);
+    background-image: url(../img/Relogio_fundo.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
-    background-position: center center;
-    margin: 0;
 }
 .cabecalho {
     display: flex;
