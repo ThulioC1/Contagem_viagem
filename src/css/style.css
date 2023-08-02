@@ -1,7 +1,8 @@
 body{
-    font:'sans-serif';
+    font:'sans-serif','arial';
+    color: aliceblue;
     background-image: url(../img/Relogio_fundo.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
     background-position: center center;
 }
